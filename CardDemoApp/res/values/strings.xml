@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardDemoApp</string>
+   
+    <string name="hello_world">Hello world!</string>
+    
+     <!--Menu -->
+    <string name="action_menu_about">About</string>
+    <string name="action_settings">关于我们</string>
+    <string name="action_menu_refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="action_menu_beer">Donate</string>
+
+    <string name="menu_select_all">Select all</string>
+    <string name="menu_reset_list">Reset list</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_discard">Discard</string>
+    
+    <string name="about_ok">OK</string>
+    <string name="about_body"><![CDATA[
+        <b>Library & Demo</b><br>
+        Author: <a href="https://plus.google.com/114432517923423045208">Gabriele Mariotti</a><br>
+        <br>
+        Get: <a href="https://github.com/gabrielemariotti/cardslib">Source and doc</a><br>
+        Get on Google Play: <a href="https://play.google.com/store/apps/details?id=it.gmariotti.cardslib.demo.extras">Cardslib Demo Extras</a><br>
+        <br><br>
+        <b>Many thanks to these open source tools:</b><br>
+        <b><a href="https://github.com/romannurik/Android-SwipeToDismiss">SwipeToDismiss</a></b><br>
+        <i>by Roman Nurik</i><br><br>
+        <b><a href="https://gist.github.com/chrisbanes/9091754">ForegroundLinearLayout</a></b><br>
+        <i>by Chris Banes</i><br><br>
+
+        <b>Thanks for some ideas and code:</b><br>
+        <b><a href="https://github.com/nhaarman/ListViewAnimations">ListViewAnimations</a></b><br>
+        <i>by Niek Haarman</i><br><br>
+
+        <br><br><br>
+        Google and the Google Maps logo are registered trademarks of Google Inc.
+
+    ]]></string>
+    <string name="about_thie"><![CDATA[
+        <b>hello antking</b><br> this is a demo change by Gabriele Mariotti<br>
+        GitAddress:<a href="https://github.com/antkingwei/CardLibDemo">CardLibDemo</a><br>
+        Author:<a href="https://github.com/antkingwei">AntkingWei</a><br>
+         ]]>
+    </string>
+      
+    <string name="carddemo_title_header">Card Header</string>
+    <string name="carddemo_title_shadow">Card Shadow</string>
+    <string name="carddemo_title_thumbnail">Card Thumbnail</string>
+    <string name="carddemo_title_card">Card</string>
+    <string name="carddemo_title_card_expand">Card Expand</string>
+    <string name="carddemo_title_gplay">Google Play</string>
+    <string name="carddemo_title_gnow">Google Now</string>
+    <string name="carddemo_title_gplus">Misc</string>
+    <string name="carddemo_title_birthday_card">BirthDay Card</string>
+    <string name="carddemo_title_stock_card">Google Now Stock</string>
+    <string name="carddemo_title_play_card">Google Play</string>
+    <string name="carddemo_title_misc_card">Misc</string>
+    <string name="carddemo_title_card_changevalue">Refresh card</string>
+    <string name="carddemo_title_list_base">List Base</string>
+    <string name="carddemo_title_list_base_different_inner">List base with different Inner Layouts</string>
+    <string name="carddemo_title_list_expand">List with expandable card</string>
+    <string name="carddemo_title_list_gplaycard">List Google Play</string>
+    <string name="carddemo_title_grid_base">Grid Base</string>
+    <string name="carddemo_title_grid_gplay">Grid Google Play</string>
+    <string name="carddemo_title_list_gplaycard_undo">List with undo</string>
+    <string name="carddemo_title_list_color">Colored cards</string>
+    <string name="carddemo_title_list_cursor">List with Cursor</string>
+    <string name="carddemo_title_grid_cursor">Grid with Cursor</string>
+    <string name="carddemo_title_cab_list">List with MultiChoice</string>
+    <string name="carddemo_title_grid_gplay_cab">Grid with MultiChoice</string>
+    <string name="carddemo_title_dismiss_animation">Dismiss Animation (experimental)</string>
+
+</resources>

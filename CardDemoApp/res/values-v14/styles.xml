@@ -1,0 +1,38 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.Carddemo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+     <style name="AppTheme.TitleText">
+        <item name="android:textSize">@dimen/demo_title_section_textsize</item>
+        <item name="android:layout_marginLeft">@dimen/demo_title_section_margin</item>
+        <item name="android:layout_marginRight">@dimen/demo_title_section_margin</item>
+        <item name="android:layout_marginBottom">@dimen/demo_title_section_margin_bottom</item>
+        <item name="android:layout_marginTop">@dimen/demo_title_section_margin_top</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/demo_title_section_textcolor</item>
+    </style>
+
+    <style name="AppTheme.TrademarkText">
+        <item name="android:textSize">12dp</item>
+        <item name="android:layout_marginLeft">@dimen/demo_title_section_margin</item>
+        <item name="android:layout_marginRight">@dimen/demo_title_section_margin</item>
+        <item name="android:layout_marginBottom">@dimen/demo_title_section_margin_bottom</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+</resources>
